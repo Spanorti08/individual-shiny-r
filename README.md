@@ -1,14 +1,14 @@
 # individual-shiny-r
 
-This repository contains a simple Shiny dashboard built in **R** for the DSCI 532 individual assignment.
+This repository contains a simple **Shiny dashboard built in R** for the **DSCI 532 Individual Assignment**.
 
 ## Requirements
 
-Install required packages in R:
+Install the required R packages:
 
-install.packages(c("shiny", "tidyverse"))
+install.packages(c("shiny", "ggplot2", "dplyr"))
 
-## Run the app
+## Run the app locally
 
 Run the following in R:
 
@@ -17,4 +17,6 @@ runApp()
 
 ## Live Application
 
-Deployment link will be added after deploying to Posit Connect Cloud.
+Deployed on Posit Connect Cloud:
+
+https://connect.posit.cloud/spanorti08/content/019cd5c1-c4c0-078f-4f13-e0384a093e4f
